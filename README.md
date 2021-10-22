@@ -383,3 +383,8 @@ Settings -> Save Widget State Automatically
 ### Add collapsible headers extension inside Jupyter Lab
 
 Adding this extension will require Node.js. Search for `collapsible` in the extension mamager (puzzle icon on the left) and click `Install` instead of clicking the title. It will then ask for a rebuild. Confirm it and wait for completion. Then click Save&Reload. 
+
+
+Run Jupyter Lab on remote server on local computer
+https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/
+
