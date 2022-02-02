@@ -1,5 +1,8 @@
 # Basis for python-based research projects. 
 
+Update on tf 1.15 on Python 3.6 when used to python 3.6 and  tf 2.6
+
+https://github.com/tensorflow/tensorflow/issues/20444#issuecomment-422899096
 
 # Usage
 
